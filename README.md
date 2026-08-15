@@ -4,16 +4,20 @@
 
 `Python` `HTML` `CSS` `JavaScript` `MySQL` `React`
 
-[[Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshusharmaj409@gmail.com)
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-sharma-923804338/)
+<a href="mailto:anshusharmaj409@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/anshu-sharma-923804338/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
 ### 📊 GitHub Stats
-[Anshii's Stats](https://github-readme-stats.vercel.app/api?username=Anshii28&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=Anshii28&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117" />
 
 ### 🔥 GitHub Streak
-[Anshii's Streak](https://streak-stats.demolab.com?user=Anshii28&theme=blue-green&hide_border=true&background=0D1117)
+<img src="https://streak-stats.demolab.com?user=Anshii28&theme=blue-green&hide_border=true&background=0D1117" />
 
 ---
 
