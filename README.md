@@ -1,8 +1,6 @@
-<h1 align="center">
-  <span style="background-color:#1F2937; color:white; padding:10px 20px; border-radius:8px;">
-    Hello I'm Anshii!
-  </span>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello%20I'm%20Anshii!-1F2937?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" />
+</p>
 
 <h3 align="center">BCA Student | Aspiring Web Developer & Data Analyst</h3>
 
