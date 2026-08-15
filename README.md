@@ -14,6 +14,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+<h3 align="center">👩‍💻 About Me</h3>
+
+<p align="center">
+  Hey there! I'm <b>Anshu</b> 👋 <br><br>
+  🎓 I'm a <b>BCA Student</b> at <i>Harlal institute of management and technology</i> <br>
+  💻 Aspiring <b>Web Developer & Data Analyst</b> <br>
+  🌱 Currently learning <b>React, Python & MySQL</b> <br>
+  🎯 Goal: Build cool websites and solve real-world problems <br>
+  ☕ Fueled by: Coffee and Code
+</p>
 
 <p align="center">
   <a href="mailto:anshusharmaj409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
