@@ -39,3 +39,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anshii28&theme=blue-green&hide_border=true&background=0D1117" />
 </p>
+---
+
+<h3 align="center">💖 Thanks for visiting my profile! 💖</h3>
+
+<p align="center">
+  Feel free to connect with me on LinkedIn or drop me a mail 😊<br>
+  Let's build something amazing together!
+</p>
