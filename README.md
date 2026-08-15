@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F2937&height=160&section=header&text=Hello%20I'm%20Anshii!&fontSize=45&fontColor=ffffff&animation=twinkling" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F2937&height=180&section=header&text=Hello%20I'm%20Anshii!&fontSize=50&fontColor=ffffff&animation=twinkling" alt="banner"/>
 </p>
 
 <h3 align="center">BCA Student | Aspiring Web Developer & Data Analyst</h3>
